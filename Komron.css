@@ -1,38 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+width: 600px;
+background-color:black ;
+color: azure;
+text-align: center;
+margin-left: 400px; 
+height: 200px;
+font-size: 60px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+div{
+    width: 750px;
+    background-color: black;
+    border: 5px solid red;
+    margin-left: 300pz;
+}
+p{
+    background-color: aquamarine;
+    padding: 50px;
+    font-weight: 800;
+    
+}
+body{
+    background-color: blueviolet;
+}
 
 
 
